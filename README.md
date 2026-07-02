@@ -15,7 +15,7 @@ Building software and understanding how it works.
 
 ### What I work with
 
-**Languages:** C · C++ · Python · JavaScript / TypeScript · SQL
+**Languages:** C · C++ · Python · SQL
 **Focus areas:** Systems & networking · Parallel computing
 **Tools:** Git · Linux · Docker
 
