@@ -10,6 +10,7 @@ Building software and understanding how it works.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Location:** Romania
+
 **Studying:** BSc Computer Science, graduating 2027  
 ---
 
