@@ -9,7 +9,6 @@ Building software and understanding how it works.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Location:** Romania
 
 **Studying:** BSc Computer Science, graduating 2027  
 ---
