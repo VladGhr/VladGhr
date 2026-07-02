@@ -1,6 +1,6 @@
 # Vlad — Computer Science Student
 
-Building software and understanding how it works — from low-level systems to web and machine learning. **Open to Summer 2026 software engineering internships.**
+Building software and understanding how it works.
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
