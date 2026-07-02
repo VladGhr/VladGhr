@@ -26,7 +26,7 @@ Building software and understanding how it works.
 - **Software Router (C)** — A functional IPv4 router with longest-prefix-match routing, ARP, and ICMP, tested in Mininet. → [https://github.com/VladGhr/C-Router](#)
 - **Reliable Transfer Protocol (C)** — A reliable byte-stream protocol over UDP using Selective Repeat ARQ. → [https://github.com/VladGhr/TCP-over-UDP-implementation](#)
 - **CUDA Bitcoin Miner** — GPU-accelerated SHA-256 mining with midstate caching, built for an HPC cluster. → [https://github.com/VladGhr/CUDA-Miner/tree/main](#)
-- **Embedded Alarm System (C / ATmega328P)** — A bare-metal AVR security alarm with keypad, ultrasonic sensor, LCD, and EEPROM-stored PIN. → [repo](#)
+- **Embedded Alarm System (C / ATmega328P)** — A bare-metal AVR security alarm with keypad, ultrasonic sensor, LCD, and EEPROM-stored PIN. → [https://github.com/VladGhr/Embedded-Alarm-System](#)
 - **Image Classification (Python / PyTorch)** — CNN and ResNet models taken from data pipeline to Kaggle submission. → [https://github.com/VladGhr/Image-Classification](#)
 
 ---
