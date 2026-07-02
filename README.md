@@ -1,4 +1,4 @@
-# Vlad — Computer Science Student
+# Hi, I'm Vlad, CS student
 
 Building software and understanding how it works.
 
