@@ -27,6 +27,6 @@ Building software and understanding how it works.
 - **Reliable Transfer Protocol (C)** — A reliable byte-stream protocol over UDP using Selective Repeat ARQ. → [repo](#)
 - **CUDA Bitcoin Miner** — GPU-accelerated SHA-256 mining with midstate caching, built for an HPC cluster. → [https://github.com/VladGhr/CUDA-Miner/tree/main](#)
 - **Embedded Alarm System (C / ATmega328P)** — A bare-metal AVR security alarm with keypad, ultrasonic sensor, LCD, and EEPROM-stored PIN. → [repo](#)
-- **Image Classification (Python / PyTorch)** — CNN and ResNet models taken from data pipeline to Kaggle submission. → [repo](#)
+- **Image Classification (Python / PyTorch)** — CNN and ResNet models taken from data pipeline to Kaggle submission. → [https://github.com/VladGhr/Image-Classification](#)
 
 ---
