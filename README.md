@@ -28,5 +28,5 @@ Building software and understanding how it works.
 - **CUDA Bitcoin Miner** — GPU-accelerated SHA-256 mining with midstate caching, built for an HPC cluster. → [https://github.com/VladGhr/CUDA-Miner/tree/main](#)
 - **Embedded Alarm System (C / ATmega328P)** — A bare-metal AVR security alarm with keypad, ultrasonic sensor, LCD, and EEPROM-stored PIN. → [https://github.com/VladGhr/Embedded-Alarm-System](#)
 - **Image Classification (Python / PyTorch)** — CNN and ResNet models taken from data pipeline to Kaggle submission. → [https://github.com/VladGhr/Image-Classification](#)
-
+- **EnergyRush** — A 2D platformer built in Unity and C#, featuring a custom player controller, ladder climbing, enemy projectiles and collectible-based scoring. → [https://github.com/VladGhr/2D-Platformer](#)
 ---
